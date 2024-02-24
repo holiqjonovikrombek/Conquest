@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+.container{
+    width: 100%;
+    max-width:1170px;
+    margin: 0 auto;
+    min-height: 50px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 35px;
+}
+.navbar-links{
+    display: flex;
+    gap: 60px;
+}
+.navbar-logo span{
+    color: #555248;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 1.68px;
+}
+.navbar-links a{
+    color: #555248;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: normal;
+}
+.header{
+    height: 805px;
+    display: flex;
+    align-items: center;
+}
+.header-text{
+    display: flex;
+}
+.header-text .line{
+    margin-top: 25px;
+    margin-right: 15px;
+}
+.line{
+    width: 50px;
+    height: 1px;
+    color: #8b8371;
+
+}
+.header-text a{
+    color: #1B1A17;
+        font-size: 30px;
+        font-weight: 400;
+        line-height: normal;
+        margin-top: 16px;
+        margin-bottom: 39px;
+}
+.header-text p{
+    color: rgba(27,26,23,0.86);
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 152.344%;
+    width: 258px;
+}
+.button{
+    width: 205px;
+    height: 64px;
+    background: #444240;
+    margin-top: 64px;
+    columns: #FFF;
+    font-size: 12px; font-weight: 500;
+    line-height: normal;
+    letter-spacing: uppercase;
+    border: none;
+
+}
+.header-image{
+    display: flex;
+    align-items: center;
+}
+.header-image-text1, .header-image-text2{
+    width: 187px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    color: #1B1A17;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    
+}
+.header-image-text1{
+    align-self: flex-start;
+    margin-top: 141px;
+    margin-right: -150px;
+}
+.header-image-text2{
+    align-self: flex-end;
+    margin-bottom: 116px;
+    margin-left: -120px;
+}
+.po{
+    text-align: center;
+    color: black;
+    margin-top: 100px;
+}
+.div11{
+    margin-top: 50px;
+}
+.ona{
+    display: flex;
+    gap: 150px;
+}
+.ha{
+    margin-top: 60px;
+}
+.container{
+    /* display: flex; */
+    gap: 100px;
+}
+.yoq{
+    margin-top: 50px;
+    gap: 50px;
+}
+.img12{
+    margin-top: 50px;
+}
+.poi{
+    display: flex;
+}
+.img13{
+    width: 1175px;
+}
